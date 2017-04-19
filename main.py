@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
 	while True:
 
-		temperature = randint(19,25)
+		temperature = randint(0,25)
 		latitude = random.uniform(21.14000000, 21.18000000)
 		longitude = random.uniform(-101.600000, -101.660000)
 
